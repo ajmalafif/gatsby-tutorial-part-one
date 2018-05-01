@@ -13,6 +13,9 @@
 - [ ] Load comment for Disqus commenting
 - [ ] Use CloudFlare CDN?
 - [ ] Sitemap
+
+## References
+https://codeburst.io/4-four-ways-to-style-react-components-ac6f323da822
 ## gatsby-starter-hello-world
 Starter with the bare essentials needed for a [Gatsby](https://www.gatsbyjs.org/) site
 
