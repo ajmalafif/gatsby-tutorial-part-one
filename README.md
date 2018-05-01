@@ -1,4 +1,19 @@
-# gatsby-starter-hello-world
+
+# TODO
+
+- [ ] Import Tachyons.io
+- [ ] Custom webfont (Inter UI)
+- [ ] PurgeCSS
+- [ ] Critical path CSS
+- [ ] Google Analytics
+- [ ] `fontfaceobserver` for fontface loading and FOUT handling
+- [ ] Syntax highlighting
+- [ ] ImageOptim?
+- [ ] Next/Prev page
+- [ ] Load comment for Disqus commenting
+- [ ] Use CloudFlare CDN?
+- [ ] Sitemap
+## gatsby-starter-hello-world
 Starter with the bare essentials needed for a [Gatsby](https://www.gatsbyjs.org/) site
 
 Install this starter (assuming Gatsby is installed) by running from your CLI:
