@@ -15,7 +15,11 @@
 - [ ] Sitemap
 
 ## References
+##### Import CSS
 https://codeburst.io/4-four-ways-to-style-react-components-ac6f323da822
+##### Webfont optimizations
+https://github.com/smartive/smartive.ch/blob/master/src/layouts/index.js
+https://github.com/greglobinski/gatsby-starter-mini-catalog/blob/master/src/layouts/index.js
 ## gatsby-starter-hello-world
 Starter with the bare essentials needed for a [Gatsby](https://www.gatsbyjs.org/) site
 
