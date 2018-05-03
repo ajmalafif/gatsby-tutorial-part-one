@@ -14,6 +14,9 @@
 - [ ] Use CloudFlare CDN?
 - [ ] Sitemap
 
+##### Optimizations
+- [ ] Import font with `typefaces`
+
 ## References
 ##### Import CSS
 - https://codeburst.io/4-four-ways-to-style-react-components-ac6f323da822
