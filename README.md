@@ -1,7 +1,7 @@
 
 # TODO
 
-- [ ] Import Tachyons.io
+- [x] Import Tachyons.io
 - [ ] Custom webfont (Inter UI)
 - [ ] PurgeCSS
 - [ ] Critical path CSS
@@ -15,13 +15,16 @@
 - [ ] Sitemap
 - [ ] fontfaceobserver/webfontloader
 
+##### Optimizations
+- [ ] Import font with `typefaces`
+
 ## References
 ##### Import CSS
-https://codeburst.io/4-four-ways-to-style-react-components-ac6f323da822
+- https://codeburst.io/4-four-ways-to-style-react-components-ac6f323da822
 ##### Webfont optimizations
-https://github.com/smartive/smartive.ch/blob/master/src/layouts/index.js
-https://github.com/greglobinski/gatsby-starter-mini-catalog/blob/master/src/layouts/index.js
-https://github.com/greglobinski/gatsby-starter-mini-catalog/blob/master/src/styles/globals.js
+- https://github.com/smartive/smartive.ch/blob/master/src/layouts/index.js
+- https://github.com/greglobinski/gatsby-starter-mini-catalog/blob/master/src/layouts/index.js
+- https://github.com/KyleAMathews/typefaces/issues/31
 ## gatsby-starter-hello-world
 Starter with the bare essentials needed for a [Gatsby](https://www.gatsbyjs.org/) site
 
